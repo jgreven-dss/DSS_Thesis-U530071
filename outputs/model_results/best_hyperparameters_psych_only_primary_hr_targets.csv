@@ -1,0 +1,13 @@
+alpha,mean_rmse,mean_mae,mean_rsq,model,mtry,min.node.size,sample.fraction,nrounds,max_depth,eta,subsample,colsample_bytree,min_child_weight,lambda,target
+1,6.024780956758596,4.903416642231827,-0.03300183798257257,Elastic Net,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hr_reactivity_mean_across_matches
+NA,6.170906123939661,5.029566741822684,-0.08452177505074311,Random Forest,3,20,0.7,NA,NA,NA,NA,NA,NA,NA,hr_reactivity_mean_across_matches
+0.1,6.043002374952662,4.917635995871767,-0.0393593668573648,XGBoost,NA,NA,NA,100,1,0.005,1,0.5,5,1,hr_reactivity_mean_across_matches
+1,6.420065402642591,5.238352266228268,-0.038461501050116934,Elastic Net,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hr_peak_reactivity_mean_across_matches
+NA,6.564243791859284,5.356989855360442,-0.0864847107688536,Random Forest,3,20,0.7,NA,NA,NA,NA,NA,NA,NA,hr_peak_reactivity_mean_across_matches
+0.1,6.439276164665481,5.248075932459924,-0.04481496815351658,XGBoost,NA,NA,NA,100,1,0.005,0.9,0.8,10,5,hr_peak_reactivity_mean_across_matches
+0,1.0555153216595101,0.8084581214437356,-0.011918778614287983,Elastic Net,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hr_gameplay_sd_mean_across_matches
+NA,1.0684799705419579,0.82509388352629,-0.0373561920950535,Random Forest,3,20,0.7,NA,NA,NA,NA,NA,NA,NA,hr_gameplay_sd_mean_across_matches
+0.1,1.055893132237822,0.8094506350553217,-0.011970756319857955,XGBoost,NA,NA,NA,100,2,0.01,1,0.8,10,5,hr_gameplay_sd_mean_across_matches
+0.5,6.184088689687832,5.052991448409436,-0.026248472804327565,Elastic Net,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hr_recovery_delta_mean_across_matches
+NA,6.264248249636554,5.123693238781929,-0.05522229426972959,Random Forest,3,20,0.7,NA,NA,NA,NA,NA,NA,NA,hr_recovery_delta_mean_across_matches
+0.1,6.168311107585055,5.032752631189727,-0.0214452363942616,XGBoost,NA,NA,NA,100,1,0.01,0.7,1,10,10,hr_recovery_delta_mean_across_matches

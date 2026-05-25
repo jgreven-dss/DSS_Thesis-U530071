@@ -1,0 +1,2 @@
+participant_id,condition,target,value,lower_bound,upper_bound
+94,1,hr_gameplay_sd_mean_across_matches,6.43725498395133,-2.17460603663842,6.179760692932399
