@@ -1,0 +1,24 @@
+Predictor,Construct measured,Higher values indicate,Questionnaire/source
+"GAD-2 (sum, 0–6)",Anxiety symptoms,More frequent anxiety symptoms,GAD-2 / PHQ-GAD screener; Kroenke et al.
+"PHQ-2 (sum, 0–6)",Depressive symptoms,More frequent depressive symptoms,PHQ-2 / PHQ-GAD screener; Kroenke et al.
+"Flourishing (mean, 1–7)",Psychological flourishing / well-being,Greater flourishing and perceived psychosocial well-being,Flourishing Scale; Diener et al.
+"Satisfaction with life (mean, 1–7)",Life satisfaction,Greater satisfaction with life,Abbreviated 3-item SWLS; Kjell & Diener / Diener et al.
+"Stress-debilitating mindset (mean, 1–7)",Belief that stress is harmful or performance-inhibiting,Stronger stress-is-debilitating mindset,Stress Mindset Measure; Crum et al.
+"Fixed mindset (mean, 1–7)",Belief that abilities are fixed,Stronger fixed mindset,Growth/fixed mindset items; Dweck / SPARQtools
+"Gaming disorder (sum, 4–20)",Problematic gaming symptoms,More frequent gaming-disorder symptoms,Gaming Disorder Test; Pontes et al.
+"Alexithymia (mean, 1–7)",Difficulty identifying/describing emotions,Greater alexithymia,PAQ-style alexithymia items; Preece et al.
+"Body awareness (mean, 1–7)",Awareness of bodily sensations,Greater body awareness / interoceptive attention,Body Awareness Questionnaire; Shields et al.
+"EBQ negative controllability (sum, 4–28)",Beliefs that negative emotions are difficult to control,More maladaptive controllability beliefs about negative emotions,Emotion Beliefs Questionnaire; CEPAV codebook source
+"EBQ negative usefulness (sum, 4–28)",Beliefs that negative emotions are not useful,More maladaptive usefulness beliefs about negative emotions,Emotion Beliefs Questionnaire; CEPAV codebook source
+"EBQ positive controllability (sum, 4–28)",Beliefs that positive emotions are difficult to control,More maladaptive controllability beliefs about positive emotions,Emotion Beliefs Questionnaire; CEPAV codebook source
+"EBQ positive usefulness (sum, 4–28)",Beliefs that positive emotions are not useful,More maladaptive usefulness beliefs about positive emotions,Emotion Beliefs Questionnaire; CEPAV codebook source
+"Positive affect (mean, 1–4)",Positive affective state,More positive affect at baseline,CEPAV baseline affect items
+"Negative affect (mean, 1–4)",Negative affective state,More negative affect at baseline,CEPAV baseline affect items
+"RESS relaxation (single item, 1–7)",Relaxation strategy use,Greater tendency to use relaxation,RESS-EMA strategy item; Hollenstein et al.
+"RESS engagement (single item, 1–7)",Engagement strategy use,Greater tendency to engage with the situation,RESS-EMA strategy item; Hollenstein et al.
+"RESS rumination (single item, 1–7)",Rumination strategy use,Greater tendency to ruminate,RESS-EMA strategy item; Hollenstein et al.
+"RESS reappraisal (single item, 1–7)",Reappraisal strategy use,Greater tendency to use reappraisal,RESS-EMA strategy item; Hollenstein et al.
+"RESS distraction (single item, 1–7)",Distraction strategy use,Greater tendency to use distraction,RESS-EMA strategy item; Hollenstein et al.
+"RESS suppression (single item, 1–7)",Suppression strategy use,Greater tendency to suppress emotional expression,RESS-EMA strategy item; Hollenstein et al.
+"Self-esteem (single item, 1–7)",Global self-esteem,Higher self-esteem,Single-Item Self-Esteem Scale; Robins et al.
+"Self-rated health (single item, 1–5)",Perceived general health,Better perceived health,MOS/SF-36-style health item; Ware & Sherbourne
